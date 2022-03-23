@@ -1,5 +1,5 @@
 - 👋 Hi, this is Mr. T
-- 👀 I’m interested in collaborating on anything am capable of..
+- 👀 I’m interested in collaborating with anyone on anything am capable of..
 - 🌱 I’m currently learning Python and working on Java and PHP.
 - 💞️ I’m looking forward to creating new opportunities!
 - 📫 connect with me info@lbt.digital
